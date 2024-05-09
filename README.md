@@ -2,7 +2,7 @@
 
  
 <h1 align="center">Hi 👋, I'm Gustavo Luque</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate frontend developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Ecommerce]([https://space-tourismsb.vercel.app/](https://e-commerss.netlify.app/))
 
